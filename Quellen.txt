@@ -1,0 +1,4 @@
+ https://www.wolframcloud.com/objects/demonstrations/JarvisMarchToFindTheConvexHullOfASetOfPointsIn2D-source.nb
+http://jeffe.cs.illinois.edu/teaching/373/notes/x05-convexhull.pdf
+https://www.blendernation.com/2013/01/17/simple-convex-hull-generator/#prettyPhoto/0/
+https://learnopencv.com/convex-hull-using-opencv-in-python-and-c/

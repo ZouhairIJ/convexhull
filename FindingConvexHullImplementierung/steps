@@ -1,0 +1,4 @@
+first install numpy : pip install numpy --user
+(python.exe -m pip install --upgrade pip --user)
+pip install matplotlib --user
+finally execute the script
